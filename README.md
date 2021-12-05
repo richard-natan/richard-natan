@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @richard-natan
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning C++
