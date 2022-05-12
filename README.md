@@ -1,5 +1,12 @@
-<h2>Prazer, Richard Natan.</h2>
+<h2 align="center">Prazer, Richard Natan.</h2>
+<h3>Por hora apenas um estudante entusiasmado com este belíssimo mundo da tecnologia!</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-natan&count_private=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-natan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/richard-natan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richard-natan&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-natan&layout=compact&langs_count=7&theme=kacho_ga"/>
+</div>
+  <hr>
+  <div align="left"; style="display: inline_block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white",href="https://www.linkedin.com/in/richard-natan/"></img>
+  </div>
