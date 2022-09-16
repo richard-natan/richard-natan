@@ -1,22 +1,16 @@
-<body style="max-width: 800px;">
-<header style="width: 50%; margin: auto; text-align: center;">
+
+<header>
 <h2>Prazer, Richard Natan.</h2>
 <p>Por hora apenas um estudante entusiasmado com este belíssimo mundo da tecnologia!</p>
 </header>
     
-<main>
-<section style="display: flex; flex-wrap: wrap; padding: 2px;">
-<div href="https://github.com/richard-natan">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=richard-natan&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-natan&langs_count=7&theme=kacho_ga" />
-</div>
+<section href="https://github.com/richard-natan" align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=richard-natan" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=richard-natan" height="150" alt="languages graph"  />
+
 </section>
     
 <section>
-<div class="social">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ,href="https://www.linkedin.com/in/richard-natan/"></img>
-    
-</div>
+ <a href="https://www.linkedin.com/in/richard-natan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </section>
-</main>
-</body>
