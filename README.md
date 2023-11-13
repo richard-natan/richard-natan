@@ -1,6 +1,6 @@
 
 <header>
-<h2>Prazer, Richard Natan.</h2>
+<h2>Olá! Eu sou o Richard Natan.</h2>
 <p>Por hora apenas um estudante entusiasmado com este belíssimo mundo da tecnologia!</p>
 </header>
     
