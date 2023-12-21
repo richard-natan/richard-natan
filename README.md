@@ -1,7 +1,8 @@
 
 <header>
 <h2>Olá! Eu sou o Richard Natan.</h2>
-<p>Por hora apenas um estudante entusiasmado com este belíssimo mundo da tecnologia!</p>
+<p>Estou procurando meu primeiro estágio na área de desenvolvimento de aplicativos para Android.
+Sou apaixonado por tecnologia e tenho um forte interesse em desenvolvimento de software.</p>
 </header>
     
 <section href="https://github.com/richard-natan" align="left">
