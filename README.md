@@ -1,8 +1,6 @@
 
 <header>
 <h2>Olá! Eu sou o Richard Natan.</h2>
-<p>Estou procurando meu primeiro estágio na área de desenvolvimento backend em Java.
-Sou apaixonado por tecnologia e tenho um forte interesse em desenvolvimento de software.</p>
 </header>
     
 <section href="https://github.com/richard-natan" align="left">
